@@ -10,7 +10,7 @@
 
 #### Find me other places on the web :) 🙏
 
-- [LinkedIn](www.linkedin.com/in/92pino)
+- [LinkedIn](https://www.linkedin.com/in/92pino)
 - [Resume](https://github.com/92pino/resume)
 
 #### 🌱&nbsp;&nbsp;I’m learning from this.
