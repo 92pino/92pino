@@ -4,7 +4,7 @@
 
 #### 💬 📱&nbsp;&nbsp;Junior iOS Developer.
 
-[![swift](http://img.shields.io/badge/-java-orange?style=flat-square&logo=)](#)
+[![swift](http://img.shields.io/badge/-swift-orange?style=flat-square&logo=)](#)
 [![javascript](http://img.shields.io/badge/-javascript-darkgray?style=flat-square&logo=)](#)
 
 
