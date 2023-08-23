@@ -11,12 +11,6 @@
 #### Find me other places on the web :) 🙏
 
 - [LinkedIn](https://www.linkedin.com/in/92pino)
-- [Resume](https://github.com/92pino/resume)
-
-#### 🌱&nbsp;&nbsp;I’m learning from this.
-
-- [raywenderlich](https://github.com/92pino/TIL/blob/master/Raywenderlich/README.md)
-- [Inflearn](https://github.com/92pino/TIL/blob/master/Inflearn/README.md)
 
 <!--
 #### 🖥&nbsp;&nbsp;My Recently Repositories.
