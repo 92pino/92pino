@@ -9,7 +9,7 @@
 ## 📦 Personal Projects
 | | Project | Description | Tech Stack |
 |---|---------|-------------|-----------|
-| <img src="https://github.com/ethanProject/Yeo-ro-iOS/blob/main/Projects/App/Resources/Assets.xcassets/AppIcon.appiconset/1024.png" width="60" /> | **[Yeo-ro](https://apps.apple.com/kr/app/%EC%97%AC%EB%A1%9C-%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D/id6762110177)** | 여행 일정, 환율, 소비 기록, 여행 회고 앱 | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=apple) ![TCA](https://img.shields.io/badge/-TCA-purple?style=flat-square) |
+| <img src="/assets/yeo-ro.png" width="60" /> | **[Yeo-ro](https://apps.apple.com/kr/app/%EC%97%AC%EB%A1%9C-%EC%97%AC%ED%96%89-%EA%B8%B0%EB%A1%9D/id6762110177)** | 여행 일정, 환율, 소비 기록, 여행 회고 앱 | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat-square&logo=swift) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-blue?style=flat-square&logo=apple) ![TCA](https://img.shields.io/badge/-TCA-purple?style=flat-square) |
 
 
 #### Find me other places on the web :) 🙏
