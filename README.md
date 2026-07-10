@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=92pino&show_icons=true&hide_title=true" />
+![snake gif](https://github.com/92pino/92pino/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there 👋
 
