@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="626" viewBox="0 0 900 626" role="img" aria-labelledby="title desc">
-<title id="title">92pino&#x27;s AI Usage</title><desc id="desc">19,675,656,277 tokens. 1,598,667,810 in the last seven days. 5 active-day streak. Activity based on local logs, not a live feed.</desc>
+<title id="title">92pino&#x27;s AI Usage</title><desc id="desc">19,679,750,558 tokens. 1,602,762,091 in the last seven days. 5 active-day streak. Activity based on local logs, not a live feed.</desc>
 <defs>
              <linearGradient id="edge"><stop stop-color="#007e99"/><stop offset=".5" stop-color="#7946d2"/><stop offset="1" stop-color="#087f5b"/></linearGradient>
              <linearGradient id="wash" x2="1" y2="1"><stop stop-color="#007e99" stop-opacity=".10"/><stop offset="1" stop-color="#7946d2" stop-opacity=".02"/></linearGradient>
@@ -63,8 +63,8 @@
 <path d="M475 125H838" stroke="#dce5ef" stroke-dasharray="3 6"/>
 <path d="M475 170H838" stroke="#dce5ef" stroke-dasharray="3 6"/>
 <path d="M475 215H838" stroke="#dce5ef" stroke-dasharray="3 6"/>
-<polygon points="475,225 475.0,185.1 487.5,149.5 500.0,217.0 512.5,217.0 525.0,197.2 537.5,211.1 550.0,195.4 562.5,210.4 575.0,207.5 587.5,217.0 600.0,217.0 612.5,156.4 625.0,159.4 637.5,165.5 650.0,153.4 662.5,189.1 675.0,217.0 687.5,217.0 700.0,181.9 712.5,170.0 725.0,134.0 737.5,163.3 750.0,133.9 762.5,191.5 775.0,217.0 787.5,206.6 800.0,202.4 812.5,119.0 825.0,215.9 837.5,213.8 837.5,225" fill="url(#area)"/><polyline class="trace" points="475.0,185.1 487.5,149.5 500.0,217.0 512.5,217.0 525.0,197.2 537.5,211.1 550.0,195.4 562.5,210.4 575.0,207.5 587.5,217.0 600.0,217.0 612.5,156.4 625.0,159.4 637.5,165.5 650.0,153.4 662.5,189.1 675.0,217.0 687.5,217.0 700.0,181.9 712.5,170.0 725.0,134.0 737.5,163.3 750.0,133.9 762.5,191.5 775.0,217.0 787.5,206.6 800.0,202.4 812.5,119.0 825.0,215.9 837.5,213.8" fill="none" stroke="#007e99" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle class="pulse" cx="837.5" cy="213.81564413815698" r="7" fill="#007e99" opacity=".2"/><circle cx="837.5" cy="213.81564413815698" r="3" fill="#007e99"/>
+<polygon points="475,225 475.0,185.1 487.5,149.5 500.0,217.0 512.5,217.0 525.0,197.2 537.5,211.1 550.0,195.4 562.5,210.4 575.0,207.5 587.5,217.0 600.0,217.0 612.5,156.4 625.0,159.4 637.5,165.5 650.0,153.4 662.5,189.1 675.0,217.0 687.5,217.0 700.0,181.9 712.5,170.0 725.0,134.0 737.5,163.3 750.0,133.9 762.5,191.5 775.0,217.0 787.5,206.6 800.0,202.4 812.5,119.0 825.0,215.9 837.5,213.4 837.5,225" fill="url(#area)"/><polyline class="trace" points="475.0,185.1 487.5,149.5 500.0,217.0 512.5,217.0 525.0,197.2 537.5,211.1 550.0,195.4 562.5,210.4 575.0,207.5 587.5,217.0 600.0,217.0 612.5,156.4 625.0,159.4 637.5,165.5 650.0,153.4 662.5,189.1 675.0,217.0 687.5,217.0 700.0,181.9 712.5,170.0 725.0,134.0 737.5,163.3 750.0,133.9 762.5,191.5 775.0,217.0 787.5,206.6 800.0,202.4 812.5,119.0 825.0,215.9 837.5,213.4" fill="none" stroke="#007e99" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="pulse" cx="837.5" cy="213.424464593074" r="7" fill="#007e99" opacity=".2"/><circle cx="837.5" cy="213.424464593074" r="3" fill="#007e99"/>
 <text x="475" y="243" font-size="9" fill="#536680" font-weight="400">Aug 20</text>
 <text x="810" y="243" font-size="9" fill="#536680" font-weight="400">TODAY</text>
 </g><g class="reveal" style="animation-delay:330ms">
@@ -78,16 +78,16 @@
 <text x="332" y="344" font-size="10" fill="#536680" font-weight="400">Through today or yesterday</text>
 <rect x="602" y="268" width="268" height="91" rx="12" fill="#ffffff" stroke="#dce5ef"/><path d="M618 287h16" stroke="#7946d2" stroke-width="3" stroke-linecap="round"/>
 <text x="643" y="290" font-size="9" fill="#536680" font-weight="600">TODAY</text>
-<text x="618" y="324" font-size="26" fill="#7946d2" font-weight="700">33.33M</text>
+<text x="618" y="324" font-size="26" fill="#7946d2" font-weight="700">37.42M</text>
 <text x="618" y="344" font-size="10" fill="#536680" font-weight="400">Recorded in your local timezone</text>
 </g><g class="reveal" style="animation-delay:460ms">
 <text x="30" y="389" font-size="10" fill="#536680" font-weight="700">TOKEN FLOW</text>
 <rect x="30.00" y="401" width="16.73" height="7" fill="#007e99"/>
-<text x="30" y="431" font-size="11" fill="#007e99" font-weight="400">Input  391.89M</text>
+<text x="30" y="431" font-size="11" fill="#007e99" font-weight="400">Input  391.92M</text>
 <rect x="46.73" y="401" width="1.58" height="7" fill="#7946d2"/>
-<text x="240" y="431" font-size="11" fill="#7946d2" font-weight="400">Output  36.96M</text>
+<text x="240" y="431" font-size="11" fill="#7946d2" font-weight="400">Output  36.97M</text>
 <rect x="48.31" y="401" width="815.12" height="7" fill="#087f5b"/>
-<text x="450" y="431" font-size="11" fill="#087f5b" font-weight="400">Cache Read  19.09B</text>
+<text x="450" y="431" font-size="11" fill="#087f5b" font-weight="400">Cache Read  19.10B</text>
 <rect x="863.43" y="401" width="6.57" height="7" fill="#a86700"/>
 <text x="660" y="431" font-size="11" fill="#a86700" font-weight="400">Cache Write  153.96M</text>
 </g><g class="reveal" style="animation-delay:580ms">
@@ -273,16 +273,16 @@
 <rect class="cell" style="animation-delay:1108ms" x="430" y="507" width="12" height="9" rx="2" fill="#b6ebdc"><title>2026-09-15: 152,496,248 tokens</title></rect>
 <rect class="cell" style="animation-delay:1112ms" x="430" y="520" width="12" height="9" rx="2" fill="#087f5b"><title>2026-09-16: 1,025,717,073 tokens</title></rect>
 <rect class="cell" style="animation-delay:1116ms" x="430" y="533" width="12" height="9" rx="2" fill="#b6ebdc"><title>2026-09-17: 11,446,782 tokens</title></rect>
-<rect class="cell" style="animation-delay:1120ms" x="430" y="546" width="12" height="9" rx="2" fill="#b6ebdc" stroke="#007e99" stroke-width="1"><title>2026-09-18: 33,329,063 tokens</title></rect>
+<rect class="cell" style="animation-delay:1120ms" x="430" y="546" width="12" height="9" rx="2" fill="#b6ebdc" stroke="#007e99" stroke-width="1"><title>2026-09-18: 37,423,344 tokens</title></rect>
 </g><g class="reveal" style="animation-delay:690ms">
 <text x="486" y="467" font-size="10" fill="#536680" font-weight="700">TOOL MOMENTUM</text>
 <text x="798" y="467" font-size="9" fill="#536680" font-weight="400">ALL TIME</text>
 <text x="486" y="492" font-size="12" fill="#14243b" font-weight="600">Claude Code</text>
 <text x="781" y="492" font-size="12" fill="#007e99" font-weight="700">15.42B</text>
-<rect x="486" y="502" width="354" height="5" rx="2" fill="#dce5ef"/><rect x="486" y="502" width="277.39" height="5" rx="2" fill="#007e99"/>
+<rect x="486" y="502" width="354" height="5" rx="2" fill="#dce5ef"/><rect x="486" y="502" width="277.33" height="5" rx="2" fill="#007e99"/>
 <text x="486" y="539" font-size="12" fill="#14243b" font-weight="600">Codex</text>
 <text x="781" y="539" font-size="12" fill="#7946d2" font-weight="700">4.26B</text>
-<rect x="486" y="549" width="354" height="5" rx="2" fill="#dce5ef"/><rect x="486" y="549" width="76.61" height="5" rx="2" fill="#7946d2"/>
+<rect x="486" y="549" width="354" height="5" rx="2" fill="#dce5ef"/><rect x="486" y="549" width="76.67" height="5" rx="2" fill="#7946d2"/>
 </g><g class="reveal" style="animation-delay:820ms">
 <path d="M30 587H870" stroke="#dce5ef"/>
 <text x="30" y="609" font-size="9" fill="#536680" font-weight="400">Asia/Seoul / 2026-09-18 / Local log snapshot</text>
