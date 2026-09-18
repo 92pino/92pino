@@ -1,7 +1,10 @@
+<!-- AI_USAGE_CARD:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/92pino/92pino/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake gif" src="https://raw.githubusercontent.com/92pino/92pino/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./cards/ai-usage-combo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./cards/ai-usage-combo-light.svg">
+  <img alt="AI coding token usage" src="./cards/ai-usage-combo-light.svg" width="846">
 </picture>
+<!-- AI_USAGE_CARD:END -->
 
 ### Hi there 👋
 

@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="846" height="195" viewBox="0 0 846 195" role="img" aria-labelledby="title desc">
+<title id="title">92pino&#x27;s AI Usage — combo</title><desc id="desc">19,653,169,940 total tokens; 87 active days. Local usage snapshot.</desc>
+<defs><linearGradient id="edge"><stop stop-color="#57e3ff"/><stop offset="1" stop-color="#bc9aff"/></linearGradient>
+         <linearGradient id="wash" x2="1" y2="1"><stop stop-color="#57e3ff" stop-opacity=".13"/><stop offset="1" stop-color="#bc9aff" stop-opacity=".02"/></linearGradient>
+         <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#57e3ff" stop-opacity=".25"/><stop offset="1" stop-color="#57e3ff" stop-opacity="0"/></linearGradient>
+         <clipPath id="frame"><rect x="1" y="1" width="844" height="193" rx="19"/></clipPath></defs>
+         <style>@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}@keyframes trace{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}.pulse{animation:pulse 3s ease-in-out infinite}.trace{stroke-dasharray:1000;animation:trace 2s ease-out}@media(prefers-reduced-motion:reduce){.pulse,.trace{animation:none}}</style>
+<rect x=".5" y=".5" width="845" height="194" rx="19" fill="#080e1c" stroke="#243653"/>
+<g clip-path="url(#frame)"><rect width="846" height="195" fill="url(#wash)"/><path d="M0 1H846" stroke="url(#edge)" stroke-width="4"/></g>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<path d="M21 30l5-9-1 6h6l-6 9 1-6z" fill="#57e3ff"/>
+<text x="38" y="32" font-size="12" fill="#edf5ff" font-weight="600" text-anchor="start">92pino&#x27;s AI Usage</text>
+<text x="24" y="62" font-size="8" fill="#57e3ff" font-weight="600" text-anchor="start">ALL-TIME / TOKENS</text>
+<text x="20" y="111" font-size="49" fill="#edf5ff" font-weight="700" text-anchor="start">19.65B</text>
+<text x="24" y="140" font-size="13" fill="#7affba" font-weight="600" text-anchor="start">1.58B this week</text>
+<text x="24" y="167" font-size="10" fill="#93a9c6" font-weight="400" text-anchor="start">87 days of building</text>
+<text x="266" y="61" font-size="8" fill="#57e3ff" font-weight="600" text-anchor="start">30-DAY PULSE</text>
+<path d="M266 98.0h242" stroke="#243653" stroke-dasharray="2 5"/>
+<path d="M266 142.0h242" stroke="#243653" stroke-dasharray="2 5"/>
+<polygon points="266,164 266.0,135.4 274.3,103.3 282.7,164.0 291.0,164.0 299.4,146.2 307.7,158.7 316.1,144.6 324.4,158.0 332.8,155.4 341.1,164.0 349.4,164.0 357.8,109.6 366.1,112.3 374.5,117.8 382.8,106.9 391.2,139.0 399.5,164.0 407.9,164.0 416.2,132.5 424.6,121.8 432.9,89.5 441.2,115.8 449.6,89.3 457.9,141.1 466.3,164.0 474.6,154.7 483.0,150.9 491.3,76.0 499.7,163.0 508.0,163.1 508,164" fill="url(#area)"/><polyline class="trace" points="266.0,135.4 274.3,103.3 282.7,164.0 291.0,164.0 299.4,146.2 307.7,158.7 316.1,144.6 324.4,158.0 332.8,155.4 341.1,164.0 349.4,164.0 357.8,109.6 366.1,112.3 374.5,117.8 382.8,106.9 391.2,139.0 399.5,164.0 407.9,164.0 416.2,132.5 424.6,121.8 432.9,89.5 441.2,115.8 449.6,89.3 457.9,141.1 466.3,164.0 474.6,154.7 483.0,150.9 491.3,76.0 499.7,163.0 508.0,163.1" fill="none" stroke="#57e3ff" stroke-width="2" stroke-linejoin="round"/>
+<circle class="pulse" cx="508.0" cy="163.06976308270927" r="5" fill="#57e3ff" opacity=".3"/><circle cx="508.0" cy="163.06976308270927" r="2.5" fill="#57e3ff"/>
+<rect x="535" y="49" width="289" height="127" rx="10" fill="#111e33"/>
+<text x="550" y="68" font-size="8" fill="#7affba" font-weight="600" text-anchor="start">BUILDING RHYTHM</text>
+<rect x="550.00" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-03-22: 0 tokens</title></rect>
+<rect x="550.00" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-23: 2,523,255 tokens</title></rect>
+<rect x="550.00" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-24: 13,132,368 tokens</title></rect>
+<rect x="550.00" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-03-25: 0 tokens</title></rect>
+<rect x="550.00" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-26: 102,948,245 tokens</title></rect>
+<rect x="550.00" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-27: 65,271,741 tokens</title></rect>
+<rect x="550.00" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-03-28: 0 tokens</title></rect>
+<rect x="559.96" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-03-29: 0 tokens</title></rect>
+<rect x="559.96" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-30: 89,223,271 tokens</title></rect>
+<rect x="559.96" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-03-31: 23,399,561 tokens</title></rect>
+<rect x="559.96" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-01: 8,981,339 tokens</title></rect>
+<rect x="559.96" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-02: 0 tokens</title></rect>
+<rect x="559.96" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-03: 11,238,977 tokens</title></rect>
+<rect x="559.96" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-04: 0 tokens</title></rect>
+<rect x="569.92" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-05: 0 tokens</title></rect>
+<rect x="569.92" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-06: 7,765,560 tokens</title></rect>
+<rect x="569.92" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-07: 16,325,621 tokens</title></rect>
+<rect x="569.92" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-08: 167,636,818 tokens</title></rect>
+<rect x="569.92" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-04-09: 322,627,701 tokens</title></rect>
+<rect x="569.92" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-04-10: 309,049,846 tokens</title></rect>
+<rect x="569.92" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-11: 0 tokens</title></rect>
+<rect x="579.88" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-12: 0 tokens</title></rect>
+<rect x="579.88" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-13: 96,665,731 tokens</title></rect>
+<rect x="579.88" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-14: 0 tokens</title></rect>
+<rect x="579.88" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-15: 0 tokens</title></rect>
+<rect x="579.88" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-16: 0 tokens</title></rect>
+<rect x="579.88" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-17: 0 tokens</title></rect>
+<rect x="579.88" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-18: 0 tokens</title></rect>
+<rect x="589.85" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-19: 0 tokens</title></rect>
+<rect x="589.85" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-20: 0 tokens</title></rect>
+<rect x="589.85" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-21: 35,616,288 tokens</title></rect>
+<rect x="589.85" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-22: 182,118,920 tokens</title></rect>
+<rect x="589.85" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-23: 146,058,559 tokens</title></rect>
+<rect x="589.85" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-24: 29,858,630 tokens</title></rect>
+<rect x="589.85" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-25: 0 tokens</title></rect>
+<rect x="599.81" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-04-26: 0 tokens</title></rect>
+<rect x="599.81" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-27: 129,045,802 tokens</title></rect>
+<rect x="599.81" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-28: 24,605,233 tokens</title></rect>
+<rect x="599.81" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-29: 135,251,913 tokens</title></rect>
+<rect x="599.81" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-04-30: 47,837,068 tokens</title></rect>
+<rect x="599.81" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-01: 0 tokens</title></rect>
+<rect x="599.81" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-02: 0 tokens</title></rect>
+<rect x="609.77" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-03: 0 tokens</title></rect>
+<rect x="609.77" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-04: 0 tokens</title></rect>
+<rect x="609.77" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-05: 0 tokens</title></rect>
+<rect x="609.77" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-05-06: 94,247,826 tokens</title></rect>
+<rect x="609.77" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-05-07: 131,035,878 tokens</title></rect>
+<rect x="609.77" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-05-08: 122,138,430 tokens</title></rect>
+<rect x="609.77" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-09: 0 tokens</title></rect>
+<rect x="619.73" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-10: 0 tokens</title></rect>
+<rect x="619.73" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-11: 0 tokens</title></rect>
+<rect x="619.73" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-12: 0 tokens</title></rect>
+<rect x="619.73" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-13: 0 tokens</title></rect>
+<rect x="619.73" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-14: 0 tokens</title></rect>
+<rect x="619.73" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-15: 0 tokens</title></rect>
+<rect x="619.73" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-16: 0 tokens</title></rect>
+<rect x="629.69" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-17: 0 tokens</title></rect>
+<rect x="629.69" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-18: 0 tokens</title></rect>
+<rect x="629.69" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-19: 0 tokens</title></rect>
+<rect x="629.69" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-20: 0 tokens</title></rect>
+<rect x="629.69" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-21: 0 tokens</title></rect>
+<rect x="629.69" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-22: 0 tokens</title></rect>
+<rect x="629.69" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-23: 0 tokens</title></rect>
+<rect x="639.65" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-24: 0 tokens</title></rect>
+<rect x="639.65" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-25: 0 tokens</title></rect>
+<rect x="639.65" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-26: 0 tokens</title></rect>
+<rect x="639.65" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-27: 0 tokens</title></rect>
+<rect x="639.65" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-28: 0 tokens</title></rect>
+<rect x="639.65" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-29: 0 tokens</title></rect>
+<rect x="639.65" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-30: 0 tokens</title></rect>
+<rect x="649.62" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-05-31: 0 tokens</title></rect>
+<rect x="649.62" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-01: 0 tokens</title></rect>
+<rect x="649.62" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-02: 0 tokens</title></rect>
+<rect x="649.62" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-03: 0 tokens</title></rect>
+<rect x="649.62" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-04: 0 tokens</title></rect>
+<rect x="649.62" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-05: 0 tokens</title></rect>
+<rect x="649.62" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-06: 0 tokens</title></rect>
+<rect x="659.58" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-07: 0 tokens</title></rect>
+<rect x="659.58" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-08: 0 tokens</title></rect>
+<rect x="659.58" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-09: 0 tokens</title></rect>
+<rect x="659.58" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-10: 0 tokens</title></rect>
+<rect x="659.58" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-11: 0 tokens</title></rect>
+<rect x="659.58" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-12: 0 tokens</title></rect>
+<rect x="659.58" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-13: 0 tokens</title></rect>
+<rect x="669.54" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-14: 0 tokens</title></rect>
+<rect x="669.54" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-15: 0 tokens</title></rect>
+<rect x="669.54" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-16: 0 tokens</title></rect>
+<rect x="669.54" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-17: 0 tokens</title></rect>
+<rect x="669.54" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-06-18: 38,277,524 tokens</title></rect>
+<rect x="669.54" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-19: 0 tokens</title></rect>
+<rect x="669.54" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-20: 0 tokens</title></rect>
+<rect x="679.50" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-21: 0 tokens</title></rect>
+<rect x="679.50" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-22: 0 tokens</title></rect>
+<rect x="679.50" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-06-23: 6,605,131 tokens</title></rect>
+<rect x="679.50" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-24: 0 tokens</title></rect>
+<rect x="679.50" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-25: 0 tokens</title></rect>
+<rect x="679.50" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-06-26: 6,928,278 tokens</title></rect>
+<rect x="679.50" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-27: 0 tokens</title></rect>
+<rect x="689.46" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-28: 0 tokens</title></rect>
+<rect x="689.46" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-29: 0 tokens</title></rect>
+<rect x="689.46" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-06-30: 0 tokens</title></rect>
+<rect x="689.46" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-01: 0 tokens</title></rect>
+<rect x="689.46" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-02: 0 tokens</title></rect>
+<rect x="689.46" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-03: 0 tokens</title></rect>
+<rect x="689.46" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-04: 0 tokens</title></rect>
+<rect x="699.42" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-05: 0 tokens</title></rect>
+<rect x="699.42" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-06: 0 tokens</title></rect>
+<rect x="699.42" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-07: 0 tokens</title></rect>
+<rect x="699.42" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-08: 0 tokens</title></rect>
+<rect x="699.42" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-09: 0 tokens</title></rect>
+<rect x="699.42" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-10: 0 tokens</title></rect>
+<rect x="699.42" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-11: 0 tokens</title></rect>
+<rect x="709.38" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-12: 0 tokens</title></rect>
+<rect x="709.38" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-13: 0 tokens</title></rect>
+<rect x="709.38" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-14: 0 tokens</title></rect>
+<rect x="709.38" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-15: 0 tokens</title></rect>
+<rect x="709.38" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-16: 0 tokens</title></rect>
+<rect x="709.38" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-17: 0 tokens</title></rect>
+<rect x="709.38" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-18: 0 tokens</title></rect>
+<rect x="719.35" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-19: 0 tokens</title></rect>
+<rect x="719.35" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-07-20: 7,717,057 tokens</title></rect>
+<rect x="719.35" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-21: 0 tokens</title></rect>
+<rect x="719.35" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-22: 0 tokens</title></rect>
+<rect x="719.35" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-23: 0 tokens</title></rect>
+<rect x="719.35" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-24: 0 tokens</title></rect>
+<rect x="719.35" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-25: 0 tokens</title></rect>
+<rect x="729.31" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-26: 0 tokens</title></rect>
+<rect x="729.31" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-27: 0 tokens</title></rect>
+<rect x="729.31" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-07-28: 1,521,941 tokens</title></rect>
+<rect x="729.31" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-07-29: 18,519,554 tokens</title></rect>
+<rect x="729.31" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-07-30: 0 tokens</title></rect>
+<rect x="729.31" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-07-31: 11,749,313 tokens</title></rect>
+<rect x="729.31" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-01: 0 tokens</title></rect>
+<rect x="739.27" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-02: 0 tokens</title></rect>
+<rect x="739.27" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-03: 485,568,646 tokens</title></rect>
+<rect x="739.27" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-04: 551,907,842 tokens</title></rect>
+<rect x="739.27" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-05: 342,142,082 tokens</title></rect>
+<rect x="739.27" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-06: 576,940,369 tokens</title></rect>
+<rect x="739.27" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-07: 504,978,818 tokens</title></rect>
+<rect x="739.27" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-08: 0 tokens</title></rect>
+<rect x="749.23" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-09: 0 tokens</title></rect>
+<rect x="749.23" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-10: 674,321,983 tokens</title></rect>
+<rect x="749.23" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-11: 432,953,849 tokens</title></rect>
+<rect x="749.23" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-12: 189,750,960 tokens</title></rect>
+<rect x="749.23" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-13: 709,193,358 tokens</title></rect>
+<rect x="749.23" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-14: 0 tokens</title></rect>
+<rect x="749.23" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-15: 0 tokens</title></rect>
+<rect x="759.19" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-16: 0 tokens</title></rect>
+<rect x="759.19" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-17: 0 tokens</title></rect>
+<rect x="759.19" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-18: 990,226,111 tokens</title></rect>
+<rect x="759.19" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-19: 770,857,074 tokens</title></rect>
+<rect x="759.19" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-08-20: 333,896,877 tokens</title></rect>
+<rect x="759.19" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-21: 706,973,269 tokens</title></rect>
+<rect x="759.19" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-22: 0 tokens</title></rect>
+<rect x="769.15" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-23: 0 tokens</title></rect>
+<rect x="769.15" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-24: 207,270,688 tokens</title></rect>
+<rect x="769.15" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-25: 61,488,511 tokens</title></rect>
+<rect x="769.15" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-26: 225,612,175 tokens</title></rect>
+<rect x="769.15" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-27: 69,358,041 tokens</title></rect>
+<rect x="769.15" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-08-28: 99,873,892 tokens</title></rect>
+<rect x="769.15" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-29: 0 tokens</title></rect>
+<rect x="779.12" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-08-30: 0 tokens</title></rect>
+<rect x="779.12" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-08-31: 633,831,640 tokens</title></rect>
+<rect x="779.12" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-09-01: 602,562,249 tokens</title></rect>
+<rect x="779.12" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-02: 538,767,359 tokens</title></rect>
+<rect x="779.12" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-09-03: 665,183,785 tokens</title></rect>
+<rect x="779.12" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-04: 291,760,171 tokens</title></rect>
+<rect x="779.12" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-09-05: 0 tokens</title></rect>
+<rect x="789.08" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-09-06: 0 tokens</title></rect>
+<rect x="789.08" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-07: 366,944,410 tokens</title></rect>
+<rect x="789.08" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-08: 492,325,825 tokens</title></rect>
+<rect x="789.08" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-09-09: 868,404,346 tokens</title></rect>
+<rect x="789.08" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-10: 562,158,584 tokens</title></rect>
+<rect x="789.08" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#36ba8b"><title>2026-09-11: 870,182,703 tokens</title></rect>
+<rect x="789.08" y="140.00" width="7.96" height="8.00" rx="1.5" fill="#187967"><title>2026-09-12: 266,747,175 tokens</title></rect>
+<rect x="799.04" y="80.00" width="7.96" height="8.00" rx="1.5" fill="#19263c"><title>2026-09-13: 0 tokens</title></rect>
+<rect x="799.04" y="90.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-09-14: 108,931,469 tokens</title></rect>
+<rect x="799.04" y="100.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-09-15: 152,496,248 tokens</title></rect>
+<rect x="799.04" y="110.00" width="7.96" height="8.00" rx="1.5" fill="#7affba"><title>2026-09-16: 1,025,717,073 tokens</title></rect>
+<rect x="799.04" y="120.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-09-17: 11,446,782 tokens</title></rect>
+<rect x="799.04" y="130.00" width="7.96" height="8.00" rx="1.5" fill="#164d4b"><title>2026-09-18: 10,842,726 tokens</title></rect>
+<text x="550" y="165" font-size="8" fill="#93a9c6" font-weight="400" text-anchor="start">26 WEEKS</text>
+<text x="809" y="165" font-size="8" fill="#57e3ff" font-weight="600" text-anchor="end">2 TOOLS</text>
+<text x="824" y="31" font-size="8" fill="#93a9c6" font-weight="600" text-anchor="end">FLOW + RHYTHM</text>
+</g></svg>
