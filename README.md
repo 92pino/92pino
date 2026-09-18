@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./cards/ai-usage-combo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./cards/ai-usage-combo-light.svg">
-  <img alt="AI coding token usage" src="./cards/ai-usage-combo-light.svg" width="846">
+  <img alt="AI coding token usage" src="./cards/ai-usage-combo-light.svg" width="900">
 </picture>
 <!-- AI_USAGE_CARD:END -->
 
